@@ -5,23 +5,37 @@ A simple Python program to record and manage transportation fares. Users can add
 
 ## Planned Features
 -Add a fare (date, transport, amount)
+
 -View all recorded fares
+
 -Calculate total spent
 
 ## How to Run / Requirements
 -Run fare_tracker.py in Python IDE or terminal
+
 -Use menu options to add/view fares or check total
 
 ## Sample Interaction / Output
-Choose option: 1
+# Choose option: 1
+
 Enter date: 2025-12-05
+
 Transport: Jeep
+
 Fare amount: ₱15
+
 Fare added!
 
-Choose option: 2
+
+
+# Choose option: 2
+
 Date       | Transport | Amount
+
 2025-12-05 | Jeep      | ₱15.00
 
-Choose option: 3
+
+
+# Choose option: 3
+
 Total spent: ₱15.00
