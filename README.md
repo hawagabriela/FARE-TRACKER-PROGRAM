@@ -18,9 +18,9 @@ A simple Python program to record and manage transportation fares. Users can add
 ## Sample Interaction / Output
 # Choose option: 1
 
-Enter date: 2025-12-05
+Enter date (YYYY-MM-DD): 2025-12-05
 
-Transport: Jeep
+Transport (jeep, bus, taxi, tricycle, etc.): Jeep
 
 Fare amount: ₱15
 
@@ -38,4 +38,4 @@ Date       | Transport | Amount
 
 # Choose option: 3
 
-Total spent: ₱15.00
+Total money spent: ₱15.00
