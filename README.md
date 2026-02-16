@@ -13,9 +13,11 @@ A simple Python program to record and manage transportation fares. Users can add
 -Exit: Close the program
 
 ## How to Run / Requirements
+-Download or clone this repository
+
 -Run fare_tracker.py in Python IDE or terminal
 
--Use menu options to add/view fares or check total
+-Use menu options to add/view fares, check total, and exit the program if done
 
 ## Sample Interaction / Output
 # Choose option: 1
