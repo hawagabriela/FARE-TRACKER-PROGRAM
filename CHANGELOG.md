@@ -29,8 +29,10 @@
 -added a changelog file to record version history and updates
 
 ## February 16, 2025
-### Added
 - Added the **Exit program** feature to the menu (Option 4).  
 - Included a **“Download repository”** step in the How to Run / Installation section.  
 - Added **contributors' names**: Jana Lozada and JC Galido.
+- Expanded description of the program
+- Added a problem statement
+- Shared the main objective of the program
 
