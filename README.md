@@ -44,27 +44,47 @@ Enter your weekly transportation budget: ₱100
 
 ========================
 
-# Choose option: 1
+1) Choose option: 1
+
 Enter date (YYYY-MM-DD): 2025-12-05
+
 Transport (Jeep, Bus, Tricycle, Train, Taxi): Jeep
+
 Fare amount: ₱25
+
 Fare Added Successfully!
--------------------------
-Date: 2025-12-05
-Transport: Jeep
-Amount: ₱25.00
+
 -------------------------
 
-# Choose option: 1
+Date: 2025-12-05
+
+Transport: Jeep
+
+Amount: ₱25.00
+
+-------------------------
+
+
+ Choose option: 1
+ 
 Enter date (YYYY-MM-DD): 2025-12-06
+
 Transport (Jeep, Bus, Tricycle, Train, Taxi): Bus
+
 Fare amount: ₱50
+
 Fare Added Successfully!
+
 -------------------------
+
 Date: 2025-12-06
+
 Transport: Bus
+
 Amount: ₱50.00
+
 -------------------------
+
 ⚠ Warning: You exceeded your weekly transportation budget!
 
 
