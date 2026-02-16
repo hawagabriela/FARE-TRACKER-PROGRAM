@@ -43,3 +43,7 @@ Date       | Transport | Amount
 # Choose option: 3
 
 Total money spent: ₱15.00
+
+## Contributors
+1) Jana Andrea N. Lozada
+2) Jc Galido
