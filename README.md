@@ -1,17 +1,23 @@
 # FARE-TRACKER-PROGRAM
 
 ## Description
-This is a simple Python program that helps users record and manage their transportation expenses. Users can add fares by entering the date, type of transport, and fare amount. The program allows users to view all recorded fares in a clear and organized table. It can also calculate the total money spent on transportation so users can keep track of their expenses. The menu is easy to use and runs continuously until the user decides to exit, making it simple and interactive for everyone.
+This is a simple Python program that helps users keep track of their transport expenses. Users can add fares by entering the date, type of transport, and fare amount. After adding a fare, the program shows a small receipt with the details. It also checks if the weekly budget is passed and gives a warning if it is. Users can see all fares in a clear table and check the total money spent. The menu is easy to use and stays open until the user chooses to exit, making it simple and easy for everyone.
 
 ## Problem Statement + Objectives
-People spend money on transportation every day but often forget how much. This makes it hard to know total expenses. Our program helps users record their fares and see all their expenses. It also calculates the total spent and is simple to use.
+People spend money on transport every day but often forget how much they spent. This makes it hard to know the total cost. Our program helps users write down their fares, see all expenses, and know the total spent. It is easy to use and helps manage transport money better.
 
 ## Planned Features
 -Add a fare (date, transport, amount)
 
--View all recorded fares
+-View all recorded fares in a table
 
--Calculate total spent
+-Show total money spent
+
+-Show total per transport type
+
+-Give a warning if weekly budget is passed
+
+-Show a small receipt after adding a fare
 
 -Exit: Close the program
 
@@ -23,29 +29,38 @@ People spend money on transportation every day but often forget how much. This m
 -Use menu options to add/view fares, check total, and exit the program if done
 
 ## Sample Interaction / Output
+
+Enter your weekly transportation budget: ₱100
+===== FARE TRACKER =====
+1 - Add Fare
+2 - View Fares
+3 - Total Spent
+4 - Exit
+========================
+
 # Choose option: 1
-
 Enter date (YYYY-MM-DD): 2025-12-05
+Transport (Jeep, Bus, Tricycle, Train, Taxi): Jeep
+Fare amount: ₱25
+Fare Added Successfully!
+-------------------------
+Date: 2025-12-05
+Transport: Jeep
+Amount: ₱25.00
+-------------------------
 
-Transport (jeep, bus, taxi, tricycle, etc.): Jeep
+# Choose option: 1
+Enter date (YYYY-MM-DD): 2025-12-06
+Transport (Jeep, Bus, Tricycle, Train, Taxi): Bus
+Fare amount: ₱50
+Fare Added Successfully!
+-------------------------
+Date: 2025-12-06
+Transport: Bus
+Amount: ₱50.00
+-------------------------
+⚠ Warning: You exceeded your weekly transportation budget!
 
-Fare amount: ₱15
-
-Fare added!
-
-
-
-# Choose option: 2
-
-Date       | Transport | Amount
-
-2025-12-05 | Jeep      | ₱15.00
-
-
-
-# Choose option: 3
-
-Total money spent: ₱15.00
 
 ## Contributors
 1) Jana Andrea N. Lozada
