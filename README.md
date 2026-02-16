@@ -10,6 +10,8 @@ A simple Python program to record and manage transportation fares. Users can add
 
 -Calculate total spent
 
+-Exit: Close the program
+
 ## How to Run / Requirements
 -Run fare_tracker.py in Python IDE or terminal
 
