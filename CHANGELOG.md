@@ -35,4 +35,5 @@
 - Expanded description of the program
 - Added a problem statement
 - Shared the main objective of the program
-
+- Added an ETHICS.md file in our documentation
+- Features for the METHODS.md file are still upcoming..(to be changed in the 4th Quarter)
