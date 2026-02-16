@@ -2,16 +2,21 @@
 --Initial commit
 1) our repository was created
 2) contained an empty project or first version of files
+
 --Update README.md 
 1) made changes or edits to our README file
 2) included descriptions, instructions, or formatting fixes
+
 --Update README.md 
 1) added another minor edit to README.md.
+
 --Update README.md 
 1) another change to README.md 
 2) refining instructions or info
+
 --Add files via upload 
 1) python code or other files were uploaded
+
 --Create CHANGELOG.md 
 1) added a changelog file to record version history and updates
 
