@@ -18,11 +18,19 @@
 ## February 16, 2026
 1) Main Repository Updates
 -Expanded description of the program.
+
 -Added a clear problem statement.
+
 -Shared the main objective of the program.
+
 -Added an ETHICS.md file in our documentation.
+
 -Features for the METHODS.md file are still upcoming (to be changed in the 4th Quarter).
-2) Program Code / Features Updates
+
+3) Program Code / Features Updates
+   
 -Implemented weekly budget warning to track spending.
+
 -Added receipt-style output after adding a fare.
+
 -Show total spent per transport type in the View Fares option.
