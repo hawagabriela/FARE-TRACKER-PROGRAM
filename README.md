@@ -33,10 +33,15 @@ People spend money on transport every day but often forget how much they spent. 
 Enter your weekly transportation budget: ₱100
 
 ===== FARE TRACKER =====
+
 1 - Add Fare
+
 2 - View Fares
+
 3 - Total Spent
+
 4 - Exit
+
 ========================
 
 # Choose option: 1
