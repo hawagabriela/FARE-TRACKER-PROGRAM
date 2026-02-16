@@ -44,7 +44,9 @@ Enter your weekly transportation budget: ₱100
 
 ========================
 
-1) Choose option: 1
+===== FARE TRACKER =====
+
+Choose option: 1
 
 Enter date (YYYY-MM-DD): 2025-12-05
 
@@ -64,8 +66,7 @@ Amount: ₱25.00
 
 -------------------------
 
-
- Choose option: 1
+Choose option: 1
  
 Enter date (YYYY-MM-DD): 2025-12-06
 
@@ -85,6 +86,24 @@ Amount: ₱50.00
 
 -------------------------
 
+⚠ Warning: You exceeded your weekly transportation budget!
+
+
+===== FARE TRACKER =====
+Choose option: 2
+
+Date       | Transport | Amount
+2025-12-05 | Jeep      | ₱25.00
+2025-12-06 | Bus       | ₱50.00
+
+Total per transport type:
+Jeep: ₱25.00
+Bus: ₱50.00
+
+
+===== FARE TRACKER =====
+Choose option: 3
+Total spent: ₱75.00
 ⚠ Warning: You exceeded your weekly transportation budget!
 
 
