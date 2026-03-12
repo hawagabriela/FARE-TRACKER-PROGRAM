@@ -32,3 +32,6 @@
 1) Implemented weekly budget warning to track spending.
 2) Added receipt-style output after adding a fare.
 3) Show total spent per transport type in the View Fares option.
+
+## March 12, 2026
+--Added a try-except block to handle invalid input for the fare amount 
