@@ -18,7 +18,11 @@ while True:
     if choice == "1":                                                                              #_OPTION 1_
         date = input("Enter date (YYYY-MM-DD): ")                                                  #Date
         transport = input("Transport (Choose here: Jeep, Bus, Tricycle, Train, Taxi): ")           #Transportation used         
-        amount = float(input("Fare amount: ₱"))                                                    #Amount of fare
+        try:
+            amount = float(input("Fare amount: ₱"))                                                #Amount of fare
+        except ValueError:
+            print("Invalid input. Please enter a number.")                                         #Tells you if u entered invalid input (not number)
+            continue                                                    
         fares.append([date, transport, amount])                                                    #Save fare record to the list of fares
         print("Fare added!")                                                                       #Confirm 
 
@@ -56,7 +60,7 @@ while True:
     elif choice == "3":                                                        #_OPTION 3_
        total = sum(f[2] for f in fares)                                        #Goes through all the fare amounts and adds up all those amounts
        print(f"\nTotal spent: ₱{total:.2f}")                                   
-        if total > budget:                                                      #If the sum is greater than the budget allocated.....
+       if total > budget:                                                      #If the sum is greater than the budget allocated.....
             print("⚠ Warning: You exceeded your weekly transportation budget!") #It gives you warning that you exceeded the budget
             
     # Exit program
@@ -65,5 +69,6 @@ while True:
         break
 
     else:
-        print("Invalid option.")                                               #Else; invalid option
+        print("Invalid option.")                                               #Else; invalid option                        #Else; invalid option
+
 
