@@ -36,6 +36,8 @@
 ## March 12, 2026
 --Added a try-except block to handle invalid input for the fare amount 
 
+--Updated Fare_Tracker.py file
+
 ## March 18, 2026
 --Updated description of the program
 
