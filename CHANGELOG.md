@@ -38,4 +38,5 @@
 
 ## March 18, 2026
 --Updated description of the program
+
 --Created CONTRIBUTORS.md file
