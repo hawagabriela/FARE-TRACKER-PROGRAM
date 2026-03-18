@@ -112,9 +112,3 @@ Total spent: ₱75.00
 
 ⚠ Warning: You exceeded your weekly transportation budget!
 
-
-## Contributors
-
-1) Jana Andrea N. Lozada
- 
-2) Jc Galido
