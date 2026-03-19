@@ -42,3 +42,6 @@
 --Updated description of the program
 
 --Created CONTRIBUTORS.md file
+
+## March 19, 2026
+-- Made progress with the detailed methodology section (METHODS.md file)
