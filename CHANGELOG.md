@@ -41,6 +41,9 @@
 ## March 18, 2026
 --Updated description of the program
 
+## March 25, 2026 
+--Fixed typos in METHODS.md section titles
+
 --Created CONTRIBUTORS.md file
 
 ## March 19, 2026
