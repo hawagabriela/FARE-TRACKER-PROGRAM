@@ -4,6 +4,7 @@
 ## IMPLEMENTATION OF CORE FEATURES ( how are the features applied ) 
  The features are applied using basic Python logic. The program collects user input and processes it step by step;
 - Users input fare details ( date, transport, amount) and allocate for the weekly budget
+> If the user enters invalid input, the program will tell you to redo your inputs and make wise responses
 
 - Data is stored in the list
 
