@@ -4,9 +4,13 @@
 ## IMPLEMENTATION OF CORE FEATURES ( how are the features applied ) 
 -- The features are applied using basic Python logic. The program collects user input and processes it step by step;
 > Users input fare details ( date, transport, amount) and allocate for the weekly budget
+
 > Data is stored in the list
+
 > Loops are used to display all fares and compute total
+
 > The program checks if weekly budget is exceeded
+
 > A receipt will be shown containing user's fare details
 
 ## TECHNOLOGIES INVOLVED ( the set of tools applied in the system )
